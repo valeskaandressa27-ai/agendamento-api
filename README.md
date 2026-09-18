@@ -3,8 +3,8 @@
 API REST desenvolvida em **Java + Spring Boot** para gerenciamento de agendamentos, aplicando os mesmos conceitos de negócio do meu projeto [Appointment Manager](https://appointment-manager-p44n.vercel.app) (originalmente em React/TypeScript/Supabase), agora implementados em backend Java puro.
 
 🔗 **API em produção:** https://agendamento-api-krjz.onrender.com
-🔗 **Frontend (React, via Lovable):** https://agendamento-api.lovable.app/clientes
-## Sobre o projeto
+🔗 **Aplicação (frontend):** [Acessar](https://agendamento-api.lovable.app/clientes)
+
 
 Sistema de agendamento de serviços com três entidades principais: **Cliente**, **Serviço** e **Agendamento**. A regra de negócio central é a **validação de conflito de horário**: o sistema impede que dois agendamentos ativos ocupem o mesmo intervalo de tempo.
 
